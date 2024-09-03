@@ -8,6 +8,8 @@ Test Case:
 4 -4 1 result = 0.5
 
 54 -9 -18 result = 0.666667 -0.5
+
+63 4 -35 result = 0.714286 -0.777778
 */
 
 int main () {
