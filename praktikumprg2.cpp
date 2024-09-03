@@ -21,7 +21,7 @@ Mr. X
 Net Salary: 1800000
 
 Erdizah Ghodi Al Haidar
-100000000
+1000000000
 10000000
 50000000
 Net Salary: 740000000
