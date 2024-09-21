@@ -1,0 +1,26 @@
+Input: 5
+Output:
+"Output: Sum = 15
+(Explanation: 1 + 2 + 3 + 4 + 5 = 15)"
+
+Input: 10
+Output:
+"Output: Sum = 55
+(Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55)"
+
+Input: 17
+Output:
+"Output: Sum = 153
+(Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13 + 14 + 15 + 16 + 17 = 153)"
+
+Input: 20
+Output:
+"Output: Sum = 210
+(Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 + 19 + 20 = 210)"
+
+Input: 30
+Output:
+"Output: Sum = 465
+(Explanation: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 + 19 + 20 + 21 + 22 + 23 + 24 + 25 + 26 + 27 + 28 + 29 + 30 = 465)"
+
+
