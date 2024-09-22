@@ -8,4 +8,4 @@ run:
 	./multiplication
 
 clean:
-	del multiplication.exe multiplication.o
+	rm -f multiplication.exe multiplication.o
