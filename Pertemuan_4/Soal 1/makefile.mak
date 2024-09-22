@@ -8,4 +8,4 @@ run:
 	./sum
 
 clean:
-	del sum.exe sum.o
+	rm -f sum.exe sum.o
