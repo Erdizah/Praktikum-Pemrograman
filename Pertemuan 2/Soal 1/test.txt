@@ -1,0 +1,39 @@
+Input:
+John Doe
+15000000
+200000
+150000
+Output:
+"Net Salary: 11650000"
+
+Input:
+Andi
+32500000
+3000000
+5000000
+Output:
+"Net Salary: 18000000"
+
+Input:
+Mr. X
+3000000
+300000
+300000
+Output:
+"Net Salary: 1800000"
+
+Input:
+Erdizah Ghodi Al Haidar
+1000000000
+10000000
+50000000
+Output:
+"Net Salary: 740000000"
+
+Input:
+Mr. Y
+3113359
+314159
+271828
+Output:
+"Net Salary: 1904701"
