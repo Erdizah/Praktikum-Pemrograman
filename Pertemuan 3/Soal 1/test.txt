@@ -1,0 +1,19 @@
+Input:
+1 2 3 
+Output:
+"No real roots (roots are complex)"
+
+Input:
+4 -4 1
+Output:
+"Root = 0.5"
+
+Input:
+54 -9 -18
+Output:
+"Root 1 = 0.666667 and root 2 = -0.5"
+
+Input:
+63 4 -35 
+Output:
+"Root 1 = 0.714286 and root 2 = -0.777778"
