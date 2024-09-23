@@ -1,0 +1,33 @@
+Input:
+"inputkan bilangan 1: 34
+inputkan bilangan 2: 32
+inputkan bilangan 3: 12"
+Output:
+"bilangan terbesar adalah: 34"
+
+Input:
+"inputkan bilangan 1: 900
+inputkan bilangan 2: 234
+inputkan bilangan 3: -100"
+"bilangan terbesar adalah: 900"
+
+Input:
+"inputkan bilangan 1: -11111
+inputkan bilangan 2: -10232
+inputkan bilangan 3: -9999"
+Output:
+"bilangan terbesar adalah: -9999"
+
+Input:
+"inputkan bilangan 1: 10000
+inputkan bilangan 2: 20000
+inputkan bilangan 3: 32000"
+Output:
+"bilangan terbesar adalah: 32000"
+
+Input:
+"inputkan bilangan 1: 10203
+inputkan bilangan 2: 0
+inputkan bilangan 3: -12302"
+Output:
+"bilangan terbesar adalah: 10203"
