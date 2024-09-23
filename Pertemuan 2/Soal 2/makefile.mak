@@ -8,4 +8,4 @@ run:
 	./P2S2
 
 clean:
-	del P2S2.exe P2S2.o
+	rm -f P2S2.exe P2S2.o
