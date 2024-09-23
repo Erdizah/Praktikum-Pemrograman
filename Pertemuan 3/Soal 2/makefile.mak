@@ -8,4 +8,4 @@ run:
 	./P3S2
 
 clean:
-	del P3S2.exe P3S2.o
+	rm -f P3S2.exe P3S2.o
