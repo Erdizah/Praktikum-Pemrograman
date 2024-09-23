@@ -11,4 +11,4 @@ run:
 	./soal1
 
 clean:
-	del soal1.exe P3S1.o helperSoal1.o
+	rm -f soal1.exe P3S1.o helperSoal1.o
