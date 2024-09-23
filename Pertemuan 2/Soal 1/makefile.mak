@@ -8,4 +8,4 @@ run:
 	./soal1
 
 clean:
-	del soal1.exe P2S1.o
+	rm -f soal1.exe P2S1.o
