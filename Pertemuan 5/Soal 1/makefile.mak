@@ -8,4 +8,4 @@ run:
 	./fizzbuzz.exe
 
 clean:
-	del fizzbuzz.exe fizzbuzz.o
+	rm -f fizzbuzz.exe fizzbuzz.o
