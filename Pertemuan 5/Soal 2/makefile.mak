@@ -8,4 +8,4 @@ run:
 	./reversearray.exe
 
 clean:
-	del reversearray.exe reversearray.o
+	rm -f reversearray.exe reversearray.o
