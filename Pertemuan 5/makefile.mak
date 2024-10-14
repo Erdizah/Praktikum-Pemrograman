@@ -8,4 +8,4 @@ test:
 	./test1.exe
 
 clean:
-	del test1.exe test1.o test.o
+	rm -f test1.exe test1.o test.o
