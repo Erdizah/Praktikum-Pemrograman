@@ -1,23 +1,23 @@
 # 🚀 OmahTI Profit Scaling Project
 
 ## 📝 Project Overview
-**OmahTI Profit Scaling Project** adalah platform layanan konsultasi digital yang ditujukan untuk membantu bisnis kecil dan pemimpin organisasi mahasiswa dalam mengidentifikasi kebutuhan, menyusun strategi, dan mengimplementasikan solusi teknologi sesuai tantangan mereka. Proyek ini dikembangkan oleh tim **Neural Network** sebagai bagian dari OTI Internship Month, dengan tujuan utama menghadirkan solusi menyeluruh mulai dari analisis kebutuhan hingga pengembangan produk dan ekspansi.
+**OmahTI Profit Scaling Project** is a digital consulting service platform designed to assist small businesses and student organization leaders in identifying their needs, formulating strategies, and implementing technological solutions tailored to their unique challenges. This project was developed by the **Neural Network** team as part of the OTI Internship Month, with the main goal of delivering end-to-end solutions—from needs analysis to product development and expansion.
 
-## 🎯 Tujuan
-- Membantu organisasi dan bisnis kecil dalam menyusun strategi digital melalui konsultasi yang terstruktur.
-- Memberikan layanan menyeluruh dari proses identifikasi kebutuhan hingga ekspansi.
-- Menyediakan kemitraan dalam berbagai bidang pengembangan teknologi yang sesuai dengan kebutuhan spesifik klien.
+## 🎯 Objectives
+- To assist organizations and small businesses in formulating digital strategies through structured consultations.
+- To provide comprehensive services from needs identification to expansion.
+- To offer partnerships in various areas of technology development tailored to clients’ specific needs.
 
-## 🔄 Tahapan Layanan
-1. **Customer Identification**: Memahami kebutuhan dan tantangan utama pengguna.
-2. **Consideration**: Menyediakan solusi alternatif yang relevan.
-3. **Decision**: Menentukan layanan dan pendekatan yang akan digunakan.
-4. **Implementation**: Eksekusi pengembangan solusi bersama tim teknis.
-5. **Post-Implementation**: Evaluasi dan pendampingan pasca peluncuran.
-6. **Expansion**: Mendukung pengembangan berkelanjutan dan peningkatan skala produk.
+## 🔄 Service Stages
+1. **Customer Identification**: Understanding the users' main needs and challenges.
+2. **Consideration**: Providing relevant alternative solutions.
+3. **Decision**: Determining the services and approaches to be used.
+4. **Implementation**: Executing the development process with the technical team.
+5. **Post-Implementation**: Evaluation and support after launch.
+6. **Expansion**: Supporting continuous development and product scaling.
 
-## 💼 Layanan & Partnership
-Platform kami terbuka untuk kemitraan dalam berbagai bidang:
+## 💼 Services & Partnerships
+Our platform is open to partnerships in the following areas:
 - UI/UX Design
 - Front End Development
 - Back End Development
@@ -27,26 +27,26 @@ Platform kami terbuka untuk kemitraan dalam berbagai bidang:
 - Artificial Intelligence & Machine Learning
 - Product Development
 
-## 🔧 Fitur Unggulan
-- **🧮 Pricing Calculator**: Alat bantu perhitungan biaya jasa berdasarkan kebutuhan spesifik.
-- **📊 Market Mapper**: Rekomendasi strategi pasar berbasis data.
-- **📬 Outreach Assistant**: Template komunikasi dan pelacakan relasi eksternal.
-- **📩 Communication Hub**: Integrasi komunikasi internal & eksternal untuk efisiensi kolaborasi.
+## 🔧 Key Features
+- **🧮 Pricing Calculator**: A cost estimation tool tailored to specific service needs.
+- **📊 Market Mapper**: Data-driven market strategy recommendations.
+- **📬 Outreach Assistant**: Communication templates and external relation tracking.
+- **📩 Communication Hub**: Integrated internal & external communication for collaboration efficiency.
 
-## 👤 Target Persona
-- **Budi (Student Leader)**: Ingin mendigitalisasi organisasi kampusnya.
-- **Siti (Partnership Specialist)**: Membutuhkan sistem outreach dan relasi eksternal yang efisien.
-- **Rian (Market Strategist)**: Fokus menyusun strategi branding dan go-to-market berbasis data.
+## 👤 Target Personas
+- **Budi (Student Leader)**: Seeks to digitize his campus organization.
+- **Siti (Partnership Specialist)**: Needs an effective outreach and external relations system.
+- **Rian (Market Strategist)**: Focused on crafting branding and go-to-market strategies based on data.
 
-## 🌐 Link Deployment
-[Masukkan link deployment di sini]
+## 🌐 Deployment Link
+[Insert deployment link here]
 
-## 📄 Link PRD
+## 📄 PRD Link
 [PRD Document](https://docs.google.com/document/d/17MEnkjgSa5d_aNwr5an2TaoUKGdB_U-M/edit)
 
-## 📊 Link Presentasi
+## 📊 Presentation Link
 [Presentation Slides](https://docs.google.com/presentation/d/1t1qYdx_Xh1MSf4j7Yxn_aKGEE3EqlwIuwQWcb6yUxRI/edit?slide=id.p#slide=id.p)
 
-## 🗺️ Link Figjam
+## 🗺️ Figjam Link
 [Figjam Board](https://www.figma.com/board/6MaQ5kBepI7E0siuT2pbfo/OTI-Intern-group-13?node-id=0-1&t=Y68XPwMwwe3xpe9E-1)
 
